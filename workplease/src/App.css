@@ -1,0 +1,93 @@
+.App{
+  width: 100vw;
+  height: 100vh;
+  background-color: transparent;
+}
+.Menu{
+  position: absolute;
+  background-color: transparent;
+  z-index: 1000;
+  top: 8vh;
+  left: 5vw;
+}
+.DropdownButton{
+  background-color: transparent;
+  z-index: 1000000000000000;
+
+ 
+}
+.DropdownButton img{
+  height: 5vh;
+}
+.Row button {
+  color: white;
+  background-color: transparent;
+}
+.Row button img{
+  width: 20vw;
+}
+
+.Row .nochar{
+
+  height: 5vh;
+  width: 5vh;
+}
+.Title{
+height: 75vh;
+  background-color: transparent;
+  position: absolute;
+  top: 15vh;
+  left: 15vw;
+  z-index: 100000;
+}
+.Title img {
+  
+  height: 55vh;
+  background-color: transparent;
+}
+
+.LittleTitle{
+ 
+    background-color: transparent;
+    position: absolute;
+    top: 1vh;
+    left: 83vw;
+    z-index: 100000;
+  }
+  .LittleTitle img {
+  
+    height: 20vh;
+    background-color: transparent;
+  }
+  .logost{
+    position: absolute;
+    top: 45vh;
+    right: 2vw;
+  }
+
+  
+  
+.sttartt{
+  position: absolute;
+  top: 60vh;
+  right: 23vw;
+  background-color: transparent;
+}
+  .sttartt img {
+    height: 15vh;
+    background-color: transparent;
+    
+  }
+
+  .smallpls img{
+position: absolute;
+    height: 15vh;
+    top: 65vh;
+    left: 77vw;
+  }
+  .smallpls2 img{
+    top: 65vh;
+    left: 70vw;
+    position: absolute;
+        height: 15vh;
+      }
